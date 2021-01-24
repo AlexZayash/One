@@ -1,0 +1,12 @@
+C:\Users\aliak\source\repos\One\One.Infrastructure\bin\Debug\netcoreapp3.1\One.Infrastructure.deps.json
+C:\Users\aliak\source\repos\One\One.Infrastructure\bin\Debug\netcoreapp3.1\One.Infrastructure.dll
+C:\Users\aliak\source\repos\One\One.Infrastructure\bin\Debug\netcoreapp3.1\One.Infrastructure.pdb
+C:\Users\aliak\source\repos\One\One.Infrastructure\bin\Debug\netcoreapp3.1\One.Core.dll
+C:\Users\aliak\source\repos\One\One.Infrastructure\bin\Debug\netcoreapp3.1\One.Core.pdb
+C:\Users\aliak\source\repos\One\One.Infrastructure\obj\Debug\netcoreapp3.1\One.Infrastructure.csprojAssemblyReference.cache
+C:\Users\aliak\source\repos\One\One.Infrastructure\obj\Debug\netcoreapp3.1\One.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\aliak\source\repos\One\One.Infrastructure\obj\Debug\netcoreapp3.1\One.Infrastructure.AssemblyInfo.cs
+C:\Users\aliak\source\repos\One\One.Infrastructure\obj\Debug\netcoreapp3.1\One.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\aliak\source\repos\One\One.Infrastructure\obj\Debug\netcoreapp3.1\One.Infrastructure.csproj.CopyComplete
+C:\Users\aliak\source\repos\One\One.Infrastructure\obj\Debug\netcoreapp3.1\One.Infrastructure.dll
+C:\Users\aliak\source\repos\One\One.Infrastructure\obj\Debug\netcoreapp3.1\One.Infrastructure.pdb

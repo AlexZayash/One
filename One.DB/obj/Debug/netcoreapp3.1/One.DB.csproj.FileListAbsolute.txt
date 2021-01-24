@@ -1,0 +1,15 @@
+C:\Users\aliak\source\repos\One\One.DB\bin\Debug\netcoreapp3.1\One.DB.deps.json
+C:\Users\aliak\source\repos\One\One.DB\bin\Debug\netcoreapp3.1\One.DB.dll
+C:\Users\aliak\source\repos\One\One.DB\bin\Debug\netcoreapp3.1\One.DB.pdb
+C:\Users\aliak\source\repos\One\One.DB\obj\Debug\netcoreapp3.1\One.DB.csprojAssemblyReference.cache
+C:\Users\aliak\source\repos\One\One.DB\obj\Debug\netcoreapp3.1\One.DB.AssemblyInfoInputs.cache
+C:\Users\aliak\source\repos\One\One.DB\obj\Debug\netcoreapp3.1\One.DB.AssemblyInfo.cs
+C:\Users\aliak\source\repos\One\One.DB\obj\Debug\netcoreapp3.1\One.DB.csproj.CoreCompileInputs.cache
+C:\Users\aliak\source\repos\One\One.DB\obj\Debug\netcoreapp3.1\One.DB.dll
+C:\Users\aliak\source\repos\One\One.DB\obj\Debug\netcoreapp3.1\One.DB.pdb
+C:\Users\aliak\source\repos\One\One.DB\bin\Debug\netcoreapp3.1\One.DB.runtimeconfig.json
+C:\Users\aliak\source\repos\One\One.DB\bin\Debug\netcoreapp3.1\One.DB.runtimeconfig.dev.json
+C:\Users\aliak\source\repos\One\One.DB\obj\Debug\netcoreapp3.1\One.DB.genruntimeconfig.cache
+C:\Users\aliak\source\repos\One\One.DB\bin\Debug\netcoreapp3.1\One.Core.dll
+C:\Users\aliak\source\repos\One\One.DB\bin\Debug\netcoreapp3.1\One.Core.pdb
+C:\Users\aliak\source\repos\One\One.DB\obj\Debug\netcoreapp3.1\One.DB.csproj.CopyComplete

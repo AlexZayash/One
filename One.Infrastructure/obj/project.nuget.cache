@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xVmDrM7q5Kkg6RDVyuHNk/wYmXALJjhMXGEfJtJ/TNr3ATAFz2yFI355+AP6oz7IBPv66Y7VgFlWEjGMDDNTtw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aliak\\source\\repos\\One\\One.Infrastructure\\One.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aliak\\.nuget\\packages\\newtonsoft.json\\11.0.1\\newtonsoft.json.11.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

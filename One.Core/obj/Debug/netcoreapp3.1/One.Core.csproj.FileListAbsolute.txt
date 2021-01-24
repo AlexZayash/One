@@ -1,0 +1,9 @@
+C:\Users\aliak\source\repos\One\One.Core\obj\Debug\netcoreapp3.1\One.Core.csprojAssemblyReference.cache
+C:\Users\aliak\source\repos\One\One.Core\obj\Debug\netcoreapp3.1\One.Core.AssemblyInfoInputs.cache
+C:\Users\aliak\source\repos\One\One.Core\obj\Debug\netcoreapp3.1\One.Core.AssemblyInfo.cs
+C:\Users\aliak\source\repos\One\One.Core\obj\Debug\netcoreapp3.1\One.Core.csproj.CoreCompileInputs.cache
+C:\Users\aliak\source\repos\One\One.Core\bin\Debug\netcoreapp3.1\One.Core.deps.json
+C:\Users\aliak\source\repos\One\One.Core\bin\Debug\netcoreapp3.1\One.Core.dll
+C:\Users\aliak\source\repos\One\One.Core\bin\Debug\netcoreapp3.1\One.Core.pdb
+C:\Users\aliak\source\repos\One\One.Core\obj\Debug\netcoreapp3.1\One.Core.dll
+C:\Users\aliak\source\repos\One\One.Core\obj\Debug\netcoreapp3.1\One.Core.pdb
